@@ -1,14 +1,14 @@
 [
   {
-    "type": "Overnight",
+    "type": "Notturno",
     "price": 25.99
   },
   {
-    "type": "2-Day",
+    "type": "2-Giorni",
     "price": 9.99
   },
   {
-    "type": "Postal",
+    "type": "Spese Postali",
     "price": 2.99
   }
 ]
